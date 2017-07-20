@@ -1,0 +1,8 @@
+Hello all,
+I've been away from the simple editor for more than a month. Sean asked me to break down the simple editor into the different task.
+Link to the most recent breakdown, https://docs.google.com/spreadsheets/d/1izbm6ZZf4BoUrWbiVAg_xuTQnrHPJCLpb001PgplZwE/edit?usp=sharing. 
+Can you review and suggest changes, also please update this tracker if you opt to work on a task.
+Also kevin will be joining the simple editor team, to coordinate and paceup the development of the simple editor, can we have a meeting on saturday or sunday?
+
+Thanks,
+Himanshu
